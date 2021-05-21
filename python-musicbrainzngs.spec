@@ -5,13 +5,13 @@
 
 Summary:	Python 2 bindings for the MusicBrainz NGS and the Cover Art Archive webservices
 Name:		python-musicbrainzngs
-Version:	0.6
-Release:	4
+Version:	0.7.1
+Release:	1
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.python.org/simple/musicbrainzngs
-Source0:	https://pypi.python.org/packages/63/cc/67ad422295750e2b9ee57c27370dc85d5b85af2454afe7077df6b93d5938/musicbrainzngs-%{version}.tar.gz
-# Source0-md5:	22616f1710f13a8da933920089c51441
+Source0:	https://files.pythonhosted.org/packages/source/m/musicbrainzngs/musicbrainzngs-%{version}.tar.gz
+# Source0-md5:	3bb83143ddf39a6e6b807a79b9ed97b5
 URL:		https://python-musicbrainzngs.readthedocs.org/
 %if %{with python2}
 BuildRequires:	python-modules >= 1:2.7
