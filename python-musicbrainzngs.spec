@@ -6,7 +6,7 @@
 Summary:	Python 2 bindings for the MusicBrainz NGS and the Cover Art Archive webservices
 Name:		python-musicbrainzngs
 Version:	0.7.1
-Release:	3
+Release:	4
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.python.org/simple/musicbrainzngs
